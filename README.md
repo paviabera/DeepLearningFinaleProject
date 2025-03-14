@@ -4,7 +4,7 @@
 This project explores the implementation and application of Convolutional Neural Networks (CNNs) using Python and popular deep learning libraries. CNNs are widely used for image recognition and classification tasks due to their effectiveness in extracting spatial features from images.
 
 ## Project Structure
-- `cnn_model.py`: Python script containing CNN architecture, training, and evaluation.
+- `CNN.py`: Python script containing CNN architecture, training, and evaluation.
 - Dataset: Included in the project or referenced from an external source.
 
 ## 📂 Data
