@@ -41,8 +41,8 @@ The project utilizes image data suitable for CNN training, validation, and testi
 The CNN achieved robust performance on the image dataset, demonstrating strong feature extraction and classification capabilities.
 
 ## Author
-- **Your Name**
-- **Email:** your-email@example.com
+- **Pavia Bera**
+- **Email:** paviabera@usf.edu
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
