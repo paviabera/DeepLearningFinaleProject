@@ -7,8 +7,17 @@ This project explores the implementation and application of Convolutional Neural
 - `cnn_model.py`: Python script containing CNN architecture, training, and evaluation.
 - Dataset: Included in the project or referenced from an external source.
 
-## Data
-The project utilizes image data suitable for CNN training, validation, and testing purposes.
+## 📂 Data
+
+The project utilizes image data suitable for CNN training, validation, and testing purposes, specifically the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset.
+
+### Downloading the Dataset
+Due to file size limitations, download the dataset separately from these official links:
+
+- [Training Images (~263 MB)](https://benchmark.ini.rub.de/Dataset/GTSRB_Final_Training_Images.zip)  
+- [Testing Images (~84 MB)](https://benchmark.ini.rub.de/Dataset/GTSRB_Final_Test_Images.zip)
+
+Extract the downloaded ZIP files into your local workspace.
 
 ## Implementation Steps
 - **Data Preparation:** Preprocessing, normalization, and splitting data into training and validation sets.
