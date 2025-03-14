@@ -35,7 +35,7 @@ Extract the downloaded ZIP files into your local workspace.
 ## Usage Instructions
 1. Clone the repository:
    ```bash
-   git clone [your-repo-url]
+   git clone "https://github.com/paviabera/Convolutional-NN"
    ```
 2. Install required libraries:
    ```bash
@@ -43,7 +43,7 @@ Extract the downloaded ZIP files into your local workspace.
    ```
 3. Run the provided CNN Python script:
    ```bash
-   python cnn_model.py
+   python CNN.py
    ```
 
 ## Results
